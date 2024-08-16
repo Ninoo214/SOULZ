@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "?",
-    "mongodbUri": "mongodb+srv://Soulz:oTKMuFIw9DSpcMsP@soulz.3o2vy.mongodb.net/?retryWrites=true&w=majority&appName=SOULZ",
+    "mongodbUri": "mongodb+srv://jfnz5b:5inief@cluster0.v3dmc2z.mongodb.net/?retryWrites=true&w=majority",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
         "utility": true,
